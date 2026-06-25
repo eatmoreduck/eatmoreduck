@@ -31,10 +31,3 @@
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-<p align="center">
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=eatmoreduck&label=views&color=0e75b6&style=flat" alt="profile views" />
-    · 代码要写,鸭也要吃 🦆 · Code hard, eat ducks harder.
-  </sub>
-</p>
