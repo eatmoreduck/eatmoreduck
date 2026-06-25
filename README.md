@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats / 数据统计
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatmoreduck&hide_border=true&theme=default" alt="GitHub streak" />
+  <img src="https://ghchart.rshah.org/eatmoreduck" alt="GitHub Contribution Graph" />
 </p>
 
 ---
