@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About / 关于我 [我的博客](https://blog.xiaohuangyu.space/)
+### 👨‍💻 About / 关于我 [Blog](https://blog.xiaohuangyu.space/)
 
 - 🛡️ 风控核心系统开发，关注规则执行、实时链路、缓存和稳定性 / Core risk control systems, rules, real-time pipelines, caching, and reliability
 - 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
