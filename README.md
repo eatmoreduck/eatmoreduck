@@ -17,7 +17,7 @@
 
 - 🛡️ 实时风控系统架构与开发 / Real-time risk control system architecture & development
 - 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
-- 🕷️ 副业：网络数据采集与自动化 / Side projects: web scraping & automation
+- 🌍 正在学习英语 / Learning English
 - 🌱 持续学习中 / Always learning
 
 ### 🛠 Tech Stack / 技术栈
