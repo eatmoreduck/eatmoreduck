@@ -13,7 +13,6 @@
 
 - 🛡️ 风控核心系统开发，关注规则执行、实时链路、缓存和稳定性 / Core risk control systems, rules, real-time pipelines, caching, and reliability
 - 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
-- 🌍 正在学习英语 / Learning English
 - 🌱 喜欢把业务问题拆成系统问题，再慢慢把系统打磨顺手 / Turning messy product problems into reliable systems
 
 ### 🧰 What I Build With / 我主要用这些做什么
