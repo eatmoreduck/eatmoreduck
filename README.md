@@ -16,7 +16,7 @@
 ### 👨‍💻 About / 关于我
 
 - 🛡️ 实时风控系统架构与开发 / Real-time risk control system architecture & development
-- 🤖 转型中：AI Coding & Agent 生态探索者 / Transitioning to AI Agent development
+- 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
 - 🕷️ 副业：网络数据采集与自动化 / Side projects: web scraping & automation
 - 🌱 持续学习中 / Always learning
 
