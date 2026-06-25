@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm 多吃鸭 (eatmoreduck) 🦆</h1>
 
 <p align="center">
-  <em>Full-Stack Developer · Data ETL &amp; Real-time Feature Engineering</em><br/>
-  <em>全栈开发 · 数据 ETL 与实时特征加工</em><br/>
+  <em>Risk Control Architecture · Full-Stack Development</em><br/>
+  <em>风控架构 · 全栈开发</em><br/>
   <a href="https://blog.xiaohuangyu.space/">📝 Blog</a> ·
   📍 Shanghai, China
 </p>
@@ -15,9 +15,9 @@
 
 ### 👨‍💻 About / 关于我
 
-- 🔧 全栈开发，专注实时数据处理与风控特征工程 / Full-stack dev, focus on real-time data &amp; risk feature engineering
-- 🤖 转型中:AI Coding &amp; Agent 生态探索者 / Transitioning to AI Agent development
-- 🕷️ 副业:网络数据采集与自动化 / Side projects: web scraping &amp; automation
+- 🛡️ 实时风控系统架构与开发 / Real-time risk control system architecture & development
+- 🤖 转型中：AI Coding & Agent 生态探索者 / Transitioning to AI Agent development
+- 🕷️ 副业：网络数据采集与自动化 / Side projects: web scraping & automation
 - 🌱 持续学习中 / Always learning
 
 ### 🛠 Tech Stack / 技术栈
