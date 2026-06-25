@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Risk Control Architecture · Full-Stack Development · 📍 Shanghai, China</em><br/>
-  <em>风控架构 · 全栈开发 · 上海</em><br/>
+  <em>风控架构 · 全栈开发 · 中国,上海</em><br/>
 </p>
 
 ---
