@@ -7,10 +7,6 @@
   📍 Shanghai, China
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eatmoreduck&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About / 关于我
@@ -18,9 +14,13 @@
 - 🛡️ 实时风控系统架构与开发 / Real-time risk control system architecture & development
 - 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
 - 🌍 正在学习英语 / Learning English
-- 🌱 持续学习中 / Always learning
+- 🌱 喜欢把业务问题拆成系统问题，再慢慢把系统打磨顺手 / Turning messy product problems into reliable systems
 
-### 🛠 Tech Stack / 技术栈
+### 🧰 What I Build With / 我主要用这些做什么
+
+- **Real-time risk control / 实时风控**: Java, Spring, Kafka, Flink
+- **Tools & automation / 工具和自动化**: Python, Go, AI Agents
+- **Internal dashboards / 后台与可视化**: Vue.js, TypeScript
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,4 +38,9 @@
 - 📝 Blog: [blog.xiaohuangyu.space](https://blog.xiaohuangyu.space/)
 - 💻 GitHub: [@eatmoreduck](https://github.com/eatmoreduck)
 
-<p align="center"><sub>代码要写,鸭也要吃 🦆 · Code hard, eat ducks harder.</sub></p>
+<p align="center">
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=eatmoreduck&label=views&color=0e75b6&style=flat" alt="profile views" />
+    · 代码要写,鸭也要吃 🦆 · Code hard, eat ducks harder.
+  </sub>
+</p>
