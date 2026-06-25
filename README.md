@@ -35,7 +35,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=eatmoreduck&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreduck&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreduck&layout=compact&hide_border=true&theme=default&langs_count=6&hide=html,css,javascript,shell" alt="Top languages" />
 </p>
 
 <p align="center">
