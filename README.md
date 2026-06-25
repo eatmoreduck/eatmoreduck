@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm 多吃鸭 (eatmoreduck) 🦆</h1>
 
 <p align="center">
-  <em>Risk Control Architecture · Full-Stack Development</em><br/>
-  <em>风控架构 · 全栈开发</em><br/>
-  <a href="https://blog.xiaohuangyu.space/">📝 Blog</a> ·
-  📍 Shanghai, China
+  <em>Risk Control Architecture · Full-Stack Development · 📍 Shanghai, China</em><br/>
+  <em>风控架构 · 全栈开发 · 上海</em><br/>
 </p>
 
 ---
 
-### 👨‍💻 About / 关于我
+### 👨‍💻 About / 关于我 [Blog](https://blog.xiaohuangyu.space/)
 
 - 🛡️ 风控核心系统开发，关注规则执行、实时链路、缓存和稳定性 / Core risk control systems, rules, real-time pipelines, caching, and reliability
 - 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
