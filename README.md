@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm 多吃鸭 (eatmoreduck) 🦆</h1>
+# 多吃鸭 eatmoreduck 🦆
 
-<p align="center">
-  <em>Risk Control Architecture · Full-Stack Development · 📍 Shanghai, China</em><br/>
-  <em>风控架构 · 全栈开发 · 中国,上海</em><br/>
-</p>
+Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). Off the clock I tinker with AI agents: most experiments turn into blog posts, a few turn into tools.
 
----
+🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space/en/) · [Daily Digest](https://digest.eatmoreduck.com)
 
-### 👨‍💻 About / 关于我 [Blog](https://blog.xiaohuangyu.space/)
+## Highlights
 
-- 🛡️ 风控核心系统开发，关注规则执行、实时链路、缓存和稳定性 / Core risk control systems, rules, real-time pipelines, caching, and reliability
-- 🤖 AI Agent 狂热爱好者，持续探索中 / AI Agent enthusiast, always exploring
-- 🌱 喜欢把业务问题拆成系统问题，再慢慢把系统打磨顺手 / Turning messy product problems into reliable systems
+- **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** ★1.2k — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
+- **[Daily Digest](https://digest.eatmoreduck.com)** — AI agents, risk control, and interviews, digested daily and auto-built.
 
 ### 🧰 What I Build With / 我主要用这些做什么
 
@@ -28,3 +24,9 @@
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+在上海做风控开发，写 Java 和实时链路。下班折腾各种 AI 工具：多数写成博客，少数做成了工具。
+
+代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（★1.2k，BOSS直聘明文薪资抓取）、[Daily Digest](https://digest.eatmoreduck.com)。作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
