@@ -2,7 +2,7 @@
 
 Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). Off the clock I tinker with AI agents: most experiments turn into blog posts, a few turn into tools.
 
-🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space) · [Daily Digest](https://digest.eatmoreduck.com)
+🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space/en/) · [Daily Digest](https://digest.eatmoreduck.com)
 
 ## Highlights
 
