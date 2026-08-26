@@ -9,11 +9,11 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 - **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** ★1.2k — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
 - **[Daily Digest](https://digest.eatmoreduck.com)** — AI agents, risk control, and interviews, digested daily and auto-built.
 
-### 🧰 What I Build With / 我主要用这些做什么
+### 🧰 What I Build With
 
-- **Real-time risk control / 实时风控**: Java, Spring, Redis, Kafka, Flink
-- **Tools & automation / 工具和自动化**: Python, Go, AI Agents
-- **Internal dashboards / 后台与可视化**: Vue.js, TypeScript
+- **Real-time risk control**: Java, Spring, Redis, Kafka, Flink
+- **Tools & automation**: Python, Go, AI Agents
+- **Internal dashboards**: Vue.js, TypeScript
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
