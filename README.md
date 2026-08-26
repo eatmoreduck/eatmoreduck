@@ -6,7 +6,9 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 ## Highlights
 
-- **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** ★1.2k — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
+- **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** [![Stars](https://img.shields.io/github/stars/eatmoreduck/boss-zhipin-scraper?style=flat&color=FE7D37)](https://github.com/eatmoreduck/boss-zhipin-scraper) — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
+- **[SkillManager](https://github.com/eatmoreduck/SkillManager)** — cross-platform desktop app for discovering, organizing & publishing AI-agent skills across Claude, Codex, and friends.
+- **[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)** — a lightweight rule engine, the kind of thing a risk-control guy builds for fun.
 - **[Daily Digest](https://digest.eatmoreduck.com)** — AI agents, risk control, and interviews, digested daily and auto-built.
 
 ### 🧰 What I Build With
@@ -29,4 +31,4 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 在上海做风控开发，写 Java 和实时链路。下班折腾各种 AI 工具：多数写成博客，少数做成了工具。
 
-代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（★1.2k，BOSS直聘明文薪资抓取）、[Daily Digest](https://digest.eatmoreduck.com)。作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
+代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（BOSS直聘明文薪资抓取）、[SkillManager](https://github.com/eatmoreduck/SkillManager)（AI 技能管理桌面应用）、[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)（轻量规则引擎）、[Daily Digest](https://digest.eatmoreduck.com)。作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
