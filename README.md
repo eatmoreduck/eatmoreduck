@@ -31,4 +31,12 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 在上海做风控开发，写 Java 和实时链路。下班折腾各种 AI 工具：多数写成博客，少数做成了工具。
 
-代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（BOSS直聘明文薪资抓取）、[SkillManager](https://github.com/eatmoreduck/SkillManager)（AI 技能管理桌面应用）、[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)（轻量规则引擎）、[Daily Digest](https://digest.eatmoreduck.com)。作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
+代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（BOSS直聘明文薪资抓取）、[SkillManager](https://github.com/eatmoreduck/SkillManager)（AI 技能管理桌面应用）、[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)（轻量规则引擎）、[Daily Digest](https://digest.eatmoreduck.com)。
+
+### 📝 最近文章
+
+- [我做了一个 BOSS直聘抓取工具，开源了](https://blog.xiaohuangyu.space/p/boss-zhipin-scraper-open-source/)
+- [2026 Mac 开发全栈工具｜淘汰 Alfred/iTerm/Docker Desktop，我的最终软件清单](https://blog.xiaohuangyu.space/p/my-software-stack-2026/)
+- [我照着 Karpathy 的 LLM Wiki 模式搭了个 Obsidian 知识库，跑了两个月](https://blog.xiaohuangyu.space/p/karpathy-llm-wiki-obsidian/)
+
+作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
