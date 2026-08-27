@@ -13,17 +13,21 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 ### 🧰 What I Build With
 
-- **Real-time risk control**: Java, Spring, Redis, Kafka, Flink
-- **Tools & automation**: Python, Go, AI Agents
-- **Internal dashboards**: Vue.js, TypeScript
+- **Real-time risk control**: Java, Spring Boot, MySQL, Redis, Kafka, Flink, Elasticsearch, ClickHouse
+- **Tools & automation**: Python, Go, GitHub Actions
+- **AI agents**: Claude Code, Codex — agent skills manager (SkillManager), auto-built digests (Daily Digest)
+- **Frontend**: Vue, TypeScript, Hugo
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
