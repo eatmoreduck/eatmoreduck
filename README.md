@@ -8,7 +8,7 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 - **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)**&nbsp;<a href="https://github.com/eatmoreduck/boss-zhipin-scraper"><img src="https://img.shields.io/github/stars/eatmoreduck/boss-zhipin-scraper?style=flat&color=FE7D37" alt="stars" height="20" align="absmiddle"></a> — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
 - **[SkillManager](https://github.com/eatmoreduck/SkillManager)** — cross-platform desktop app for discovering, organizing & publishing AI-agent skills across Claude, Codex, and friends.
-- **[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)** — a lightweight rule engine, the kind of thing a risk-control guy builds for fun.
+- **[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)** — a lightweight rule engine — the decision-engine core every risk-control system needs.
 - **[Daily Digest](https://digest.eatmoreduck.com)** — AI agents, risk control, and interviews, digested daily and auto-built.
 
 ### 🧰 What I Build With
