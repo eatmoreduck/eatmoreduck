@@ -15,7 +15,7 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 - **Real-time risk control**: Java, Spring Boot, MySQL, Redis, Kafka, Flink, Elasticsearch, ClickHouse
 - **Tools & automation**: Python, Go, GitHub Actions
-- **AI agents**: Claude Code, Codex, pi — agent skills (SkillManager), auto-built digests (Daily Digest)
+- **AI agents**: Claude Code, Codex — agent skills (SkillManager), auto-built digests (Daily Digest)
 - **Frontend**: Vue, TypeScript, Hugo
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
