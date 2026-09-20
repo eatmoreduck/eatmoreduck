@@ -1,6 +1,6 @@
 # 多吃鸭 eatmoreduck 🦆
 
-Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). Off the clock I tinker with AI agents: most experiments turn into blog posts, a few turn into tools.
+Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). Off the clock I've gone AI-native: coding agents are my daily driver — I build tools with them, write skills for them, and blog about what actually works.
 
 🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space/en/) · [Daily Digest](https://digest.eatmoreduck.com)
 
@@ -15,7 +15,7 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 
 - **Real-time risk control**: Java, Spring Boot, MySQL, Redis, Kafka, Flink, Elasticsearch, ClickHouse
 - **Tools & automation**: Python, Go, GitHub Actions
-- **AI agents**: Claude Code, Codex — agent skills manager (SkillManager), auto-built digests (Daily Digest)
+- **AI agents**: Claude Code, Codex, pi — agent skills (SkillManager), auto-built digests (Daily Digest)
 - **Frontend**: Vue, TypeScript, Hugo
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -31,10 +31,3 @@ Risk-control engineer in Shanghai — I build real-time risk systems in Java (ru
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
-
-在上海做风控开发，写 Java 和实时链路。下班折腾各种 AI 工具：多数写成博客，少数做成了工具。
-
-代表作：[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)（BOSS直聘明文薪资抓取）、[SkillManager](https://github.com/eatmoreduck/SkillManager)（AI 技能管理桌面应用）、[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)（轻量规则引擎）、[Daily Digest](https://digest.eatmoreduck.com)。
-
-作品与联系方式见 [官网](https://www.eatmoreduck.com)，或在任意仓库开 issue。
