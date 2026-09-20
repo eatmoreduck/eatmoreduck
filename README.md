@@ -1,6 +1,6 @@
 # 多吃鸭 eatmoreduck 🦆
 
-Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). Off the clock I've gone AI-native: coding agents are my daily driver — I build tools with them, write skills for them, and blog about what actually works.
+Risk-control engineer in Shanghai — I build real-time risk systems in Java (rules, streaming, caching). AI-native on and off the clock: coding agents are my daily driver — I build tools with them, write skills for them, and blog about what actually works.
 
 🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space/en/) · [Daily Digest](https://digest.eatmoreduck.com)
 
