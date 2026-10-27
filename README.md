@@ -12,18 +12,17 @@ Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native 
 
 ## Open-Source Contributions
 
-**10 merged pull requests across 5 upstream projects, plus 13 open** (as of 27 October 2026). Counts are public PRs authored by me in repositories I don't own or administer.
+**10 merged pull requests across 5 upstream projects, plus 13 open** (as of 27 October 2026) — the orca count is 4 solo merges plus 1 co-authored. Counts are public PRs authored by me in repositories I don't own or administer.
 
 | Project | Merged | Open | What I work on there |
 |---|---:|---:|---|
-| [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 5¹ | 10 | Desktop agent workbench: scheduler correctness, telemetry privacy, sidebar data flow, test-ratchet CI |
+| [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 5 | 10 | Desktop agent workbench: scheduler correctness, telemetry privacy, sidebar data flow, test-ratchet CI |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode)&nbsp;<a href="https://github.com/anomalyco/opencode"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 0 | 3 | MIME sniffing, cache corruption recovery |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw)&nbsp;<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Harness correctness |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)&nbsp;<a href="https://github.com/VoltAgent/awesome-agent-skills"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Skill catalog entry — boss-zhipin tooling |
 | [anomalyco/models.dev](https://github.com/anomalyco/models.dev)&nbsp;<a href="https://github.com/anomalyco/models.dev"><img src="https://img.shields.io/github/stars/anomalyco/models.dev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Model-catalog cleanup, first-hand API verification |
 | [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev)&nbsp;<a href="https://github.com/fatwang2/awesome-jev"><img src="https://img.shields.io/github/stars/fatwang2/awesome-jev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 2 | 0 | Directory entries for the Jev clients |
 
-¹ 4 solo merges + 1 co-authored.
 
 ### What these changes actually fixed
 
