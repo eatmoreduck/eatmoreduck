@@ -1,4 +1,4 @@
-name: jev-chat org stars badge
+name: org stars badges
 
 on:
   schedule:
@@ -13,17 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Sum org stars and write badge JSON
+      - name: Sum stars and write badge JSONs
         run: |
-          total=$(curl -sf "https://api.github.com/orgs/jev-chat/repos?per_page=100" | jq '[.[].stargazers_count] | add // 0')
-          pretty=$(printf '%s' "$total" | sed -E 's/([0-9])([0-9]{3})$/\1,\2/')
-          printf '{"schemaVersion":1,"label":"stars","message":"%s","color":"FE7D37"}\n' "$pretty" > jev-stars.json
-          cat jev-stars.json
+          write_badge() {
+            file="$1"; total="$2"
+            pretty=$(printf '%s' "$total" | sed -E 's/([0-9])([0-9]{3})$/\1,\2/')
+            printf '{"schemaVersion":1,"label":"stars","message":"%s","color":"FE7D37"}\n' "$pretty" > "$file"
+            cat "$file"
+          }
+          jev=$(curl -sf "https://api.github.com/orgs/jev-chat/repos?per_page=100" | jq '[.[].stargazers_count] | add // 0')
+          boss=$(curl -sf "https://api.github.com/repos/eatmoreduck/boss-zhipin-scraper" | jq '.stargazers_count // 0')
+          write_badge jev-stars.json "$jev"
+          write_badge boss-stars.json "$boss"
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet jev-stars.json && echo "no change" && exit 0
-          git add jev-stars.json
-          git commit -m "chore: refresh jev-chat org stars badge"
+          git diff --quiet -- jev-stars.json boss-stars.json && echo "no change" && exit 0
+          git add jev-stars.json boss-stars.json
+          git commit -m "chore: refresh star badges"
           git push
