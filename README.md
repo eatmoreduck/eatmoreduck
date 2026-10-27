@@ -12,25 +12,15 @@ Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native 
 
 ## Open-Source Contributions
 
-**10 merged pull requests across 5 upstream projects, plus 13 open** (as of 27 October 2026) — the orca count is 4 solo merges plus 1 co-authored. Counts are public PRs authored by me in repositories I don't own or administer.
+**10 merged pull requests across 5 upstream projects** (as of 27 October 2026) — orca: 4 solo merges plus 1 co-authored. Counts are public PRs authored by me in repositories I don't own or administer.
 
-| Project | Merged | Open | What I work on there |
-|---|---:|---:|---|
-| [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 5 | 10 | Desktop agent workbench: scheduler correctness, telemetry privacy, sidebar data flow, test-ratchet CI |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode)&nbsp;<a href="https://github.com/anomalyco/opencode"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 0 | 3 | MIME sniffing, cache corruption recovery |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw)&nbsp;<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Harness correctness |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)&nbsp;<a href="https://github.com/VoltAgent/awesome-agent-skills"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Skill catalog entry — boss-zhipin tooling |
-| [anomalyco/models.dev](https://github.com/anomalyco/models.dev)&nbsp;<a href="https://github.com/anomalyco/models.dev"><img src="https://img.shields.io/github/stars/anomalyco/models.dev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Model-catalog cleanup, first-hand API verification |
-| [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev)&nbsp;<a href="https://github.com/fatwang2/awesome-jev"><img src="https://img.shields.io/github/stars/fatwang2/awesome-jev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 2 | 0 | Directory entries for the Jev clients |
-
-
-### What these changes actually fixed
-
-- **A scheduled reminder could vanish for a whole day.** When the clock fell back for DST, orca's scheduler treated the repeated hour as already-done and skipped it. [#20179](https://github.com/stablyai/orca/pull/20179)
-- **Computer-use agents broke on every fresh macOS machine.** SwiftPM resolved a different dependency ABI per machine; the build now pins one. [#21146](https://github.com/stablyai/orca/pull/21146)
-- **Hook-install telemetry shipped raw error text.** It now reports error codes instead — the message never leaves the machine. [#26609](https://github.com/stablyai/orca/pull/26609)
-- **A flaky-test ratchet could block unrelated PRs.** The ratchet now scopes to the merge base of the change under test. [#33782](https://github.com/stablyai/orca/pull/33782)
-- **A model-catalog sync would have deleted a model that's still served.** Every entry I kept was verified against the live API by hand before the cleanup merged. [#7331](https://github.com/anomalyco/models.dev/pull/7331)
+| Project | Merged PRs |
+|---|---|
+| [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#20179](https://github.com/stablyai/orca/pull/20179) · [#21146](https://github.com/stablyai/orca/pull/21146) · [#26609](https://github.com/stablyai/orca/pull/26609) · [#33782](https://github.com/stablyai/orca/pull/33782) · [#21082](https://github.com/stablyai/orca/pull/21082) *(co-authored)* |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw)&nbsp;<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#148683](https://github.com/openclaw/openclaw/pull/148683) |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)&nbsp;<a href="https://github.com/VoltAgent/awesome-agent-skills"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#1061](https://github.com/VoltAgent/awesome-agent-skills/pull/1061) |
+| [anomalyco/models.dev](https://github.com/anomalyco/models.dev)&nbsp;<a href="https://github.com/anomalyco/models.dev"><img src="https://img.shields.io/github/stars/anomalyco/models.dev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#7331](https://github.com/anomalyco/models.dev/pull/7331) |
+| [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev)&nbsp;<a href="https://github.com/fatwang2/awesome-jev"><img src="https://img.shields.io/github/stars/fatwang2/awesome-jev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#184](https://github.com/fatwang2/awesome-jev/pull/184) · [#185](https://github.com/fatwang2/awesome-jev/pull/185) |
 
 ### 🧰 What I Build With
 
