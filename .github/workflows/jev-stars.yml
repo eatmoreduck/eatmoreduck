@@ -1,0 +1,29 @@
+name: jev-chat org stars badge
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sum org stars and write badge JSON
+        run: |
+          total=$(curl -sf "https://api.github.com/orgs/jev-chat/repos?per_page=100" | jq '[.[].stargazers_count] | add // 0')
+          pretty=$(printf '%s' "$total" | sed -E 's/([0-9])([0-9]{3})$/\1,\2/')
+          printf '{"schemaVersion":1,"label":"stars","message":"%s","color":"FE7D37"}\n' "$pretty" > jev-stars.json
+          cat jev-stars.json
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet jev-stars.json && echo "no change" && exit 0
+          git add jev-stars.json
+          git commit -m "chore: refresh jev-chat org stars badge"
+          git push
