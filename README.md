@@ -7,9 +7,34 @@ Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native 
 ## Highlights
 
 - **[boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)**&nbsp;<a href="https://github.com/eatmoreduck/boss-zhipin-scraper"><img src="https://img.shields.io/github/stars/eatmoreduck/boss-zhipin-scraper?style=flat&color=FE7D37" alt="stars" height="20" align="absmiddle"></a> — pulls real, unmasked salary data from BOSS Zhipin (China's largest job platform) by driving a real Chrome via CDP, no Selenium. I do risk control for a living — I know exactly what the anti-bot side checks.
-- **[SkillManager](https://github.com/eatmoreduck/SkillManager)** — cross-platform desktop app for discovering, organizing & publishing AI-agent skills across Claude, Codex, and friends.
-- **[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)** — a lightweight rule engine — the decision-engine core every risk-control system needs.
+- **[SkillManager](https://github.com/eatmoreduck/SkillManager)**&nbsp;<a href="https://github.com/eatmoreduck/SkillManager"><img src="https://img.shields.io/github/stars/eatmoreduck/SkillManager?style=flat&color=FE7D37" alt="stars" height="20" align="absmiddle"></a> — cross-platform desktop app for discovering, organizing & publishing AI-agent skills across Claude, Codex, and friends.
+- **[another-rule-engine](https://github.com/eatmoreduck/another-rule-engine)**&nbsp;<a href="https://github.com/eatmoreduck/another-rule-engine"><img src="https://img.shields.io/github/stars/eatmoreduck/another-rule-engine?style=flat&color=FE7D37" alt="stars" height="20" align="absmiddle"></a> — a lightweight rule engine — the decision-engine core every risk-control system needs.
 - **[Daily Digest](https://digest.eatmoreduck.com)** — AI agents, risk control, and interviews, digested daily and auto-built.
+
+## Open-Source Contributions
+
+**54 merged pull requests across 7 upstream projects, plus 13 open** (as of 27 October 2026). Counts are public PRs authored by me in repositories I don't own.
+
+| Project | Merged | Open | What I work on there |
+|---|---:|---:|---|
+| [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 5¹ | 10 | Desktop agent workbench: scheduler correctness, telemetry privacy, sidebar data flow, test-ratchet CI |
+| [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac)&nbsp;<a href="https://github.com/jev-chat/jev-chat-jarvis-mac"><img src="https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis-mac?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 43 | 0 | WeChat AI assistant, macOS client: screen reading, HUD, manual calibration, CI gates |
+| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)&nbsp;<a href="https://github.com/jev-chat/jev-chat-jarvis"><img src="https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Judge presets for the shared evaluation layer |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode)&nbsp;<a href="https://github.com/anomalyco/opencode"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 0 | 3 | MIME sniffing, cache corruption recovery |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw)&nbsp;<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Harness correctness |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)&nbsp;<a href="https://github.com/VoltAgent/awesome-agent-skills"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Skill catalog entry — boss-zhipin tooling |
+| [anomalyco/models.dev](https://github.com/anomalyco/models.dev)&nbsp;<a href="https://github.com/anomalyco/models.dev"><img src="https://img.shields.io/github/stars/anomalyco/models.dev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 1 | 0 | Model-catalog cleanup, first-hand API verification |
+| [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev)&nbsp;<a href="https://github.com/fatwang2/awesome-jev"><img src="https://img.shields.io/github/stars/fatwang2/awesome-jev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | 2 | 0 | Project directory entries |
+
+¹ 4 solo merges + 1 co-authored.
+
+### What these changes actually fixed
+
+- **A scheduled reminder could vanish for a whole day.** When the clock fell back for DST, orca's scheduler treated the repeated hour as already-done and skipped it. [#20179](https://github.com/stablyai/orca/pull/20179)
+- **Computer-use agents broke on every fresh macOS machine.** SwiftPM resolved a different dependency ABI per machine; the build now pins one. [#21146](https://github.com/stablyai/orca/pull/21146)
+- **Hook-install telemetry shipped raw error text.** It now reports error codes instead — the message never leaves the machine. [#26609](https://github.com/stablyai/orca/pull/26609)
+- **A flaky-test ratchet could block unrelated PRs.** The ratchet now scopes to the merge base of the change under test. [#33782](https://github.com/stablyai/orca/pull/33782)
+- **The WeChat assistant misread WeChat 4.x's separate chat windows.** Window-following now tracks the AX focus window instead of the frontmost app. [#92](https://github.com/jev-chat/jev-chat-jarvis-mac/pull/92)
 
 ### 🧰 What I Build With
 
