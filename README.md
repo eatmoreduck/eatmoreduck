@@ -12,7 +12,7 @@ Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native 
 
 ## Open-Source Contributions
 
-**10 merged pull requests across 5 upstream projects** (as of 27 October 2026) — the orca count is 4 solo merges plus 1 co-authored. Counts are public PRs authored by me in repositories I don't own or administer.
+**10 merged pull requests across 5 upstream projects** (as of 27 October 2026) — the orca count is 4 solo merges plus 1 co-authored.
 
 | Project | Merged PRs |
 |---|---|
