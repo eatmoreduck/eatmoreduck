@@ -12,8 +12,6 @@ Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native 
 
 ## Open-Source Contributions
 
-**10 merged pull requests across 5 upstream projects** (as of 27 October 2026) — the orca count is 4 solo merges plus 1 co-authored.
-
 | Project | Merged PRs |
 |---|---|
 | [stablyai/orca](https://github.com/stablyai/orca)&nbsp;<a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#20179](https://github.com/stablyai/orca/pull/20179) · [#21146](https://github.com/stablyai/orca/pull/21146) · [#26609](https://github.com/stablyai/orca/pull/26609) · [#33782](https://github.com/stablyai/orca/pull/33782) · [#21082](https://github.com/stablyai/orca/pull/21082) *(co-authored)* |
