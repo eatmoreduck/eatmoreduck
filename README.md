@@ -1,4 +1,4 @@
-# 多吃鸭 eatmoreduck 🦆
+# eatmoreduck 多吃鸭 🦆
 
 Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native on and off the clock: coding agents are my daily driver — I build tools with them and blog about what works.
 
