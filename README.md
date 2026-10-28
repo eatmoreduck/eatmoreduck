@@ -1,4 +1,4 @@
-# 多吃鸭 eatmoreduck 🦆
+# eatmoreduck 多吃鸭 🦆
 
 上海风控架构师 · 10 年全栈、7 年风控研发
 
