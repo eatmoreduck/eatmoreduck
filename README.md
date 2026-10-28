@@ -1,8 +1,10 @@
 # eatmoreduck 多吃鸭 🦆
 
-Risk-control engineer in Shanghai — real-time risk systems in Java. AI-native on and off the clock: coding agents are my daily driver — I build tools with them and blog about what works.
+上海风控架构师 · 10 年全栈、7 年风控研发
 
-🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space/en/) · [Daily Digest](https://digest.eatmoreduck.com)
+Risk-control architect in Shanghai · 10 years full-stack, 7 years of risk-control R&D
+
+🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space) · [Daily Digest](https://digest.eatmoreduck.com) · [X](https://x.com/eatmoreduck98)
 
 ## Highlights
 
