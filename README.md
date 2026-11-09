@@ -1,8 +1,8 @@
 # eatmoreduck 多吃鸭 🦆
 
-上海风控架构师 · 10 年全栈、7 年风控研发
+上海 · 10 年全栈、7 年风控研发｜从数据采集、模型上线到策略的全链路，实时+离线
 
-Risk-control architect in Shanghai · 10 years full-stack, 7 years of risk-control R&D
+Shanghai · 10 years full-stack, 7 years of risk-control R&D — full chain from data collection and model launch to strategy, realtime + offline
 
 🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space) · [Daily Digest](https://digest.eatmoreduck.com) · [X](https://x.com/eatmoreduck98)
 
