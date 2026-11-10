@@ -25,7 +25,6 @@ Shanghai · 10 years full-stack, 7 years of risk-control R&D — full chain from
 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)&nbsp;<a href="https://github.com/vastsa/PI-Desktop"><img src="https://img.shields.io/github/stars/vastsa/PI-Desktop?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#1976](https://github.com/vastsa/PI-Desktop/pull/1976) · [#1979](https://github.com/vastsa/PI-Desktop/pull/1979) · [#2028](https://github.com/vastsa/PI-Desktop/pull/2028) |
 | [apache/incubator-kie](https://github.com/apache/incubator-kie)&nbsp;<a href="https://github.com/apache/incubator-kie"><img src="https://img.shields.io/github/stars/apache/incubator-kie?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#7270](https://github.com/apache/incubator-kie/pull/7270) |
 | [anomalyco/models.dev](https://github.com/anomalyco/models.dev)&nbsp;<a href="https://github.com/anomalyco/models.dev"><img src="https://img.shields.io/github/stars/anomalyco/models.dev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#7331](https://github.com/anomalyco/models.dev/pull/7331) |
-| [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev)&nbsp;<a href="https://github.com/fatwang2/awesome-jev"><img src="https://img.shields.io/github/stars/fatwang2/awesome-jev?style=flat&color=FE7D37" alt="stars" height="16" align="absmiddle"></a> | [#184](https://github.com/fatwang2/awesome-jev/pull/184) · [#185](https://github.com/fatwang2/awesome-jev/pull/185) |
 
 ### 🧰 What I Build With
 
