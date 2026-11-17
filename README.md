@@ -4,7 +4,7 @@
 
 Shanghai · 10 years full-stack, 7 years of risk-control R&D — full chain from data collection and model launch to strategy, realtime + offline
 
-🔗 [Website](https://www.eatmoreduck.com) · [Blog](https://blog.xiaohuangyu.space) · [Daily Digest](https://digest.eatmoreduck.com) · [X](https://x.com/eatmoreduck98)
+🔗 [多吃鸭官网 / Official website](https://www.eatmoreduck.com/) · [Blog](https://blog.xiaohuangyu.space) · [Daily Digest](https://digest.eatmoreduck.com) · [X](https://x.com/eatmoreduck98)
 
 ## Highlights
 
